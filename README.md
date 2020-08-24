@@ -30,6 +30,6 @@ In `/etc/bind/named.conf.options`:
 
 You can bypass on adult's computers simply by switching to non-default DNS, like 8.8.8.8
 
-Of course, this probably isn't going to work for older children (like teenagers), who may be smart enough to change DNS settings.
+Of course, this probably isn't going to work for older children (like teenagers), who may have worked out how to change DNS settings.
 
 But our kids are too young to work that stuff out yet.
