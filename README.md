@@ -33,3 +33,11 @@ You can bypass on adult's computers simply by switching to non-default DNS, like
 Of course, this probably isn't going to work for older children (like teenagers), who may have worked out how to change DNS settings.
 
 But our kids are too young to work that stuff out yet.
+
+## CGI Script
+
+The CGI script `youtubectl.cgi` provides a simple web page to turn YouTube access on/off from a web browser. That means I can turn it on/off from my phone.
+
+There is no security but that's okay because my kids haven't worked this out for themselves yet.
+
+When they do I will add some.
